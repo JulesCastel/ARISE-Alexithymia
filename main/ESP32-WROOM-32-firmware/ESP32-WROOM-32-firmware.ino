@@ -87,6 +87,7 @@ void loop()
 
   if (pulseSensor.sawStartOfBeat())
     heartData = pulseSensor.getBeatsPerMinute();
+  
   forceData = analogRead(forceSensor);
 
   Serial.print("\tHeart:");
@@ -96,7 +97,7 @@ void loop()
   Serial.println(forceData);
 
   message.heartData = heartData;
-  message.forceData = forceSensor;
+  message.forceData = forceData;
 
   esp_err_t result = esp_now_send(MAC_RX, (uint8_t *)&message, sizeof(message));
   if (result == ESP_OK)
