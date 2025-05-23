@@ -2,7 +2,9 @@
 # <ins>Alexithymia</ins>
 
 *For the ARISE program with Undergraduate Research at Dallas College (UR@DC)*
+
 [Showcase video](https://www.youtube.com/watch?v=obvycJi4Fpg)
+
 [Full music track](https://youtu.be/uM08ENIJbZg)
 
 ## Abstract
