@@ -121,7 +121,7 @@ void playAudio(const char* filePath)
 
   player.setPath(filePath);
 
-  Serial.print("Playing "); // file select
+  Serial.print("Playing ");
   Serial.println(filePath);
 
   player.play();
