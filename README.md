@@ -3,6 +3,8 @@
 
 *For the ARISE program with Undergraduate Research at Dallas College (UR@DC)*
 
+Won the Most Creative Project award!
+
 [Showcase video](https://www.youtube.com/watch?v=obvycJi4Fpg)
 
 [Full music track](https://youtu.be/uM08ENIJbZg)
